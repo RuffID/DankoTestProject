@@ -14,4 +14,4 @@
 Начало игры
 ![Start game](https://github.com/RuffID/DankoTestProject/assets/39307365/bb291032-ba27-405a-b47c-8e7001eda32a)
 Конец игры
-![End game](https://github.com/RuffID/DankoTestProject/assets/39307365/c8d0ceb5-ee0e-4970-8cc2-8e93ce11c1fd)
+![End game](https://github.com/RuffID/DankoTestProject/assets/39307365/c1c9c352-1bd1-4a3c-acfe-a7f22fc41e0d)
